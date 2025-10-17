@@ -1,0 +1,102 @@
+Here’s a complete prompt you can use in Windsurf to generate a perfect website for your project — Healthcare Symptom Checker and Guidance Agent 👇
+
+
+---
+
+🧠 Prompt for Windsurf
+
+Title:
+Healthcare Symptom Checker and Guidance Agent
+
+Objective:
+Build an interactive and intelligent web-based platform where users can describe their symptoms in natural language, and the AI provides personalized, conversational guidance — including possible causes and recommended next steps — based on validated medical datasets.
+
+Problem Statement:
+Patients often look for preliminary medical guidance online before visiting healthcare professionals. However, most tools provide static or generic results without engaging conversationally or asking clarifying questions. This project aims to design an AI-powered healthcare assistant that delivers dynamic, patient-friendly interaction and evidence-based suggestions.
+
+Core Features:
+
+1. 🗣️ Conversational Interface
+
+Allow users to describe symptoms in natural language.
+
+AI should ask clarifying questions dynamically.
+
+Maintain a chat-style interface with smooth user flow.
+
+
+
+2. 🧩 AI Logic
+
+Use symptom-disease mappings and medical guidelines (CDC/WHO datasets).
+
+Generate possible diagnoses and recommended actions (e.g., “Consult a doctor”, “Try rest and hydration”).
+
+Emphasize clarity and reassurance, avoiding alarming tone.
+
+
+
+3. 🩺 Data Integration
+
+Base responses on verified healthcare data sources like CDC, WHO, or NHS public datasets.
+
+Include common symptom–disease relationships and general medical FAQs.
+
+
+
+4. 💬 Output Requirements
+
+Present results in clear, patient-friendly natural language.
+
+Output should include:
+
+Possible conditions related to the symptoms.
+
+Recommended next steps (e.g., home care, see a doctor, emergency care).
+
+
+Provide a disclaimer: “This tool does not replace professional medical advice.”
+
+
+
+5. 🔍 Validation
+
+Test the agent with example symptom inputs (e.g., “I have a sore throat and fever”).
+
+Ensure responses are consistent, medically sound, and conversational.
+
+
+
+6. 🎨 Design & UX
+
+Clean, modern medical theme (white & blue tones).
+
+Responsive layout for mobile and desktop.
+
+Smooth animations for chat messages.
+
+Add an easy “Start Over” or “Clear Chat” button.
+
+
+
+7. ⚙️ Technical Requirements (for Windsurf implementation)
+
+Frontend: React + TailwindCSS.
+
+Backend: Node.js / Python Flask for AI processing.
+
+Integrate with LLM API (for conversational logic).
+
+Optional: Connect to mock healthcare dataset (JSON/CSV format).
+
+
+
+
+Expected Output:
+A fully functional, responsive website that demonstrates a conversational AI agent capable of interpreting user symptom inputs, asking relevant questions, and providing guidance in natural language text, supported by trusted medical data.
+
+
+---
+
+Would you like me to include a sample dataset structure (like JSON format for symptom–disease mappings) so Windsurf can also generate a mock backend for testing?
+
