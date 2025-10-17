@@ -1,0 +1,30 @@
+Title name:
+
+Healthcare Symptom Checker and Guidance Agent
+
+Problem Statement:
+
+Patients often seek preliminary guidance on symptoms before consulting healthcare professionals, but existing tools lack personalized, conversational interaction.
+
+Steps:
+
+Collect symptom-disease mappings and medical guidelines from trusted sources.
+
+Design the Al agent to take symptom descriptions and ask clarifying questions.
+
+Use the agent to provide possible causes and recommended next steps.
+
+Ensure the agent communicates in clear, patient-friendly language.
+
+Validate the agent's responses with sample symptom inputs.
+
+Data Requirements:
+
+Symptom-disease mappings, medical guidelines, and FAQs from trusted healthcare source CDC or WHO datasets.
+
+Expected Output:
+
+A conversational agent that outputs possible diagnoses and recommended actions in natu language text.
+
+Generate prompt based on data given so that windsurf can make a perfect website that fulfills the requirement
+
