@@ -1,0 +1,23 @@
+from langchain_openai import ChatOpenAl
+
+import os
+
+import httpx
+
+client = httpx.Client(verify=False)
+
+Ilm = ChatOpenAl(
+
+base_url="https://genailab.tcs.in"
+
+model = "azure_ai/genailab-maas-DeepSeek-V3-0324",
+
+TATA ULTA SERVICES
+
+TCS Confide
+
+api_key="XXXXXXXXXXX", # Will be provided during event. And this ke Hackathon purposes only and should not be used for any unauth purposes
+
+http_client = client
+
+Ilm.invoke("Hi")
